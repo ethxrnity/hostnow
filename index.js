@@ -87,4 +87,4 @@ client.on('guildMemberRemove', async member => {
 
 });
 
-client.login("NzUzMzEzNzY5NDUwNTA0MzAy.X1kYHg.gTPKxMJgOQSPh57pg31uiGjTu50");
+client.login("token");
