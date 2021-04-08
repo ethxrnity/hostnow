@@ -1,2 +1,2 @@
 # hostnow
-Discord pro portál HostNow.cz
+Discord BOT pro portál HostNow.cz
